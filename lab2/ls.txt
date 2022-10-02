@@ -1,0 +1,10 @@
+.:
+итого 4
+drw-rwxr-x. 2 zloch zloch 22 окт  2 13:24 dir
+-rw-r-----. 1 root  zloch  5 окт  2 13:22 file
+-rw-------. 1 zloch zloch  0 окт  2 13:29 file1
+-rw-rw-rw-. 1 zloch zloch  0 окт  2 13:29 file2
+
+./dir:
+итого 0
+-????????? ? ? ? ?            ? new_file
