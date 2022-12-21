@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Каталоги:"
 ls -l | grep ^d
 echo "Обычные файлы:"
