@@ -1,2 +1,3 @@
 #!/bin/bash
-ls ~/*.txt | wc -l
+
+find ~ -type f -name "*.txt" | wc -l
