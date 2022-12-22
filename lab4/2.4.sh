@@ -1,3 +1,2 @@
 #!/bin/bash
-ls / | grep "bin" >&2
-
+ls / |& grep -w bin >&2
